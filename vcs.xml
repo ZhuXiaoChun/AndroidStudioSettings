@@ -14,6 +14,10 @@
           <option name="url" value="http://git.gamersky.com" />
           <option name="userName" value="zxc" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://zxc@git.gamersky.com/TestIJKPlayer_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Work\GamerSky" />
