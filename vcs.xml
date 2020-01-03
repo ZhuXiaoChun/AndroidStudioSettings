@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/CarGuo/GSYVideoPlayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://zxc@git.gamersky.com/GSPSNAPIKeyCaptor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Work\GamerSky" />
